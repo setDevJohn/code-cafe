@@ -4,7 +4,7 @@ Uma landing page de uma cafeteria usando HTML e CSS.
 
 
 ## 🔗 Acesso ao projeto
-[<img src="src/images/projeto-acode-cafe.gif">](https://jhonyfreitasdev.github.io/projeto-code-cafe/)
+[<img src="src/images/projeto-code-cafe.gif">](https://jhonyfreitasdev.github.io/projeto-code-cafe/)
 
 
 ## 🛠 Skils
