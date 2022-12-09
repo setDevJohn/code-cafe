@@ -14,30 +14,25 @@ body{
     padding: 30px 15px;
     position: relative;
 }
-
 .cabecalho .logo{
     background: url(../images/logo.jpg) center center no-repeat;
     width: 85px;
     height: 85px;
     display: inline-block;
 }
-
 .cabecalho .logo h1{
     font-size: 0;
 }
-
-.cabecalho nav{
+.cabecalho .menu{
     display: inline-block;
     position: absolute;
     right: 0;
     margin-top: 30px;
 }
-
 .cabecalho ul li{
     display: inline-block;
     padding: 15px;
 }
-
 .cabecalho ul li a:hover{
     font-weight: bold;    
 }
@@ -47,7 +42,6 @@ body{
     background: url(../images/painel.jpg) center center no-repeat;
     height: 600px;   
 }
-
 .painel h2{
     color: white;
     font-size: 60px;
@@ -58,25 +52,21 @@ body{
     transform: translateY(-50%);
 }
 
-
 .secao-com-texto{
     padding: 153px;
     clear: both;
     text-align: center;
 }
-
 .secao-com-texto img{
     width: 170px;
     height: 170px;
     margin-bottom: 70px;
 }
-
 .secao-com-texto h2{
     font-size: 45px;
     font-weight: 600;
     margin-bottom: 30px;
 }
-
 .secao-com-texto p{
     font-size: 18px;
     text-align: center;
@@ -88,8 +78,7 @@ body{
     font-size: 28px;
 }
 
-
-.ladrilho div{
+.ladrilho .images{
     float: left;
 }
 
@@ -121,22 +110,19 @@ body{
     height: 600px;
     position: relative;
 }
-
+.contato .texto{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
 .contato h2{
     font-size:45px ;
     font-weight: 600;
     margin-bottom: 30px;
 }
-
 .contato address{
     font-size:25px ;
     font-weight: 600;
-}
-
-.contato .texto{
-    position: absolute;
-    top: 30%;
-    left: 50%;
 }
 
 .rodape{
@@ -144,37 +130,30 @@ body{
     padding: 35px 30px;
     background-size: cover;
 }
-
 .rodape ul{
     float: right;
     margin-top:30px;
 }
-
 .rodape ul li{
     display: inline-block;
     padding: 15px;
 }
-
 .rodape ul li a{   
     color: white;
 }
-
 .rodape ul li a:hover{
     font-weight: bold;
 }
-
 .rodape .copyright{
     color: white;
     margin-top: 40px;
 }
-
 .rodape .rede-sociais .facebook,
 .rodape .rede-sociais .instagram{
     width: 20px;
     height: 20px;
     margin: 10px;
 }
-
 .rodape .rede-sociais{
     float: right;
     clear: both;

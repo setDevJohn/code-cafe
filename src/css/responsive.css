@@ -78,18 +78,15 @@
         display: block;
         margin: 0 auto;
     }
-
-    .cabecalho nav{
+    .cabecalho .menu{
         position: static;
         text-align: center;
         width: 100%;
     }
-
-    .cabecalho nav ul li{
+    .cabecalho .menu ul li{
         display: block;
     }
-
-    .cabecalho nav ul li a{
+    .cabecalho .menu ul li a{
         width: 100%;
         display: block;
     }
@@ -98,11 +95,9 @@
         font-size: 2.5rem;
     }
     
-
     .secao-com-texto h2{
         font-size: 3rem;
     }
-
     .secao-com-texto.onde-estamos p{
         font-size: 2rem;
     }
