@@ -4,6 +4,8 @@ Uma landing page de uma cafeteria usando HTML e CSS.
 
 
 ## 🔗 Acesso ao projeto
+<a href="https://jhonyfreitasdev.github.io/projeto-code-cafe/">Clique aqui para ir para a página</a>
+
 [<img src="src/images/projeto-code-cafe.gif">](https://jhonyfreitasdev.github.io/projeto-code-cafe/)
 
 
