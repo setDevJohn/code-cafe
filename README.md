@@ -4,9 +4,9 @@ Uma landing page de uma cafeteria.
 
 
 ## 🔗 Acesso ao projeto
-<a href="https://jhonyfreitasdev.github.io/projeto-code-cafe/">Clique aqui para ir para a página</a>
+<a href="https://setdevjohn.github.io/code-cafe/">Clique aqui para ir para a página</a>
 
-[<img src="src/images/projeto-code-cafe.gif">](https://jhonyfreitasdev.github.io/projeto-code-cafe/)
+[<img src="src/images/projeto-code-cafe.gif">](https://setdevjohn.github.io/code-cafe/)
 
 
 ## 🛠 Skills
